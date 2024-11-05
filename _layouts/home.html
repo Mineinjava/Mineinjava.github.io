@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const checkboxes = document.querySelectorAll('.category-checkbox');
+  const posts = document.querySelectorAll('.post-list li');
+
+  checkboxes.forEach(checkbox => {
+    checkbox.addEventListener('change', filterPosts);
+  });
+
+  function filterPosts() {
+    const selectedCategories = Array.from(checkboxes)
+      .filter(checkbox => checkbox.checked)
+      .map(checkbox => checkbox.value);
+
+    posts.forEach(post => {
+      const postCategories = post.dataset.categories.split(','); // Assume you've set data-categories
+      const isVisible = selectedCategories.some(category => postCategories.includes(category));
+      post.style.display = isVisible ? '' : 'none';
+    });
+  }
+
+  // Initialize data attributes for posts
+  posts.forEach(post => {
+    const categories = post.querySelector('a.post-link').getAttribute('data-categories'); // Set this attribute in your HTML
+    post.setAttribute('data-categories', categories);
+  });
+});
+</script>
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+<ul class="post-list">
+<div class="category-filter">
+  <h5>Filter by Category</h5>
+  {%- assign categories = site.posts | map: 'categories' | flatten | uniq -%}
+  {%- for category in categories -%}
+    <label>
+      <input type="checkbox" class="category-checkbox" value="{{ category }}" checked>
+      {{ category }}
+    </label>
+  {%- endfor -%}
+  <br><br><br>
+</div>
+  {%- for post in site.posts -%}
+  <li>
+           <h5>
+      <a class="post-link" href="{{ post.url | relative_url }}" data-categories="{{ post.categories | join: ',' }}">
+        {% if post.tags contains "featured" %}
+          <strong>{{ post.title | escape }}</strong>
+        {% else %}
+          {{ post.title | escape }}
+        {% endif %}
+      </a>
+    </h5>
+    {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
