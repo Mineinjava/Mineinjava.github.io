@@ -5,7 +5,9 @@ date:   2023-11-23 20:59:54 -0800
 categories: Science Technology Engineering
 ---
 
-After some research, bentonite clay seemed like a good nozzle material.
+My friend and I have been trying to synthesize rocket fuel. The next
+step in making our own rocket is integration into a body. After some
+research, bentonite clay seemed like a good nozzle material.
 
 Erosion resistance looked promising:
 

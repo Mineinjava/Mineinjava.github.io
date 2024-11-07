@@ -9,6 +9,9 @@ tag: featured
 My entry into the 2023 Contra Costa County Science Fair and the 2023
 California State Science Fair. 
 
+![Nile Red stained honey showing presence of microplastics]({{ site.baseurl }}/images/MicroplasticAnalysis.png)
+
+
 ### Abstract: 
 From the day it was invented, plastic has grown more popular as a
 packaging, prototyping, and production material in every industry. As
@@ -41,7 +44,7 @@ My project won first place in the biology category, advancing me to the
 state competition. It also earned the Dr. David Padgett Award for
 Sustainability. 
 
-[Country news article](https://contracosta.news/2023/04/25/contra-costa-county-science-and-engineering-fair-results-announced/)
+[County news article](https://contracosta.news/2023/04/25/contra-costa-county-science-and-engineering-fair-results-announced/)
 
 [Official Results (see page 3)](https://ba-leeds.org/wp-content/uploads/2023/04/2023-Science-Fair-Awards-Listing-for-Webpage.FINAL-v.3.pdf)
 

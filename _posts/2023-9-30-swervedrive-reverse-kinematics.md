@@ -7,11 +7,13 @@ categories: Robotics Engineering Math
 
 In 2021, my robotics team adopted an independant wheel steering or
 "swerve" drivetrain. That year, I was a freshman tasked with programming
-the swerve drive. Many of the availible libraries and guides were either
+the swerve drive. Many of the available libraries and guides were either
 completely incorrect or felt too complicated (especially for a novice).
 
 Since then, I have written my own library,
 [Quail](https://github.com/mineinjava/quail).
+
+https://github.com/mineinjava/quail
 
 I finally got around to writing some explanations for the math used in
 Quail. Here is the start: the basic math needed for movement.
@@ -73,3 +75,7 @@ And here's the one-liner to calculate them with
 ```java
 SwerveDrive.calculateMoveAngles(moveVector, rotationSpeed, gyroOffset);
 ```
+
+I have continued to work on the code in collaboration with a friend in
+Arizona. I estimate that about two dozen teams used Quail in the 2024
+season.

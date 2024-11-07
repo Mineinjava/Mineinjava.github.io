@@ -8,4 +8,4 @@ I have carved a pumpkin for Halloween every year for as long as I can
 remember. This year, I carved one side of Schrodinger's equation into my
 pumpkin.
 
-![Image]({{ site.baseurl }}/images/pumpkin.JPG)
+![My pumpkin]({{ site.baseurl }}/images/pumpkin.JPG)
