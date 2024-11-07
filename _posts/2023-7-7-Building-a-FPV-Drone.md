@@ -30,3 +30,7 @@ Time for the first flight!
 It flies! 
 
 ![In Flight]({{ site.baseurl }}/images/InFlight.jpg)
+
+After a few flights the VTX antenna connector snapped off. I had to
+replace the entire VTX, but I redesigned the anteanna mount to avoid
+this issue in the future.
