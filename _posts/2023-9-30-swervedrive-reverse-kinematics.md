@@ -5,10 +5,18 @@ date:   2023-9-30 20:59:54 -0800
 categories: Robotics Engineering Math
 ---
 
+In 2021, my robotics team adopted an independant wheel steering or
+"swerve" drivetrain. That year, I was a freshman tasked with programming
+the swerve drive. Many of the availible libraries and guides were either
+completely incorrect or felt too complicated (especially for a novice).
+
+Since then, I have written my own library,
+[Quail](https://github.com/mineinjava/quail).
+
 I finally got around to writing some explanations for the math used in
 Quail. Here is the start: the basic math needed for movement.
 
-See [this Desmos graph](hhttps://www.desmos.com/geometry/ys8clq7yev) for
+See [this Desmos graph](https://www.desmos.com/geometry/ys8clq7yev) for
 an interactive visualization
 
 Translating a swerve robot is trivial: point all the wheels in one
@@ -59,7 +67,7 @@ Here's what that looks like:
 
 ![Movement and rotation]({{ site.baseurl }}/images/DesmosCombined.png)
 
-And here's the one-liner to calculate it with
+And here's the one-liner to calculate them with
 [Quail](https://github.com/mineinjava/quail):
 
 ```java
