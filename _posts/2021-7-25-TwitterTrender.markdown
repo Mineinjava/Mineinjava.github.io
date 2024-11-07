@@ -7,9 +7,13 @@ categories: Engineering
 
 You know what's wrong with Twitter and the rest of social media? Not enough real people. 
 
-Lets see how effective the most basic bot can be.
+Let's see how effective the most basic bot can be.
 
-I wrote a super simple bot with the [`python-twitter`](https://python-twitter.readthedocs.io/en/latest/installation.html) and [`markovify`](https://github.com/jsvine/markovify/tree/master/markovify) packages. 
+I wrote a super simple bot with the
+[`python-twitter`](https://python-twitter.readthedocs.io/en/latest/installation.html)
+and
+[`markovify`](https://github.com/jsvine/markovify/tree/master/markovify)
+packages. 
 
 The bot takes the top 100 trending tweets, combines them into one with the markov chain, throws out profane results, and spits out the output. It automatically posts to twitter every 1-3 hours at random.
 
