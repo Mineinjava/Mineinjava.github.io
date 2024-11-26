@@ -12,7 +12,7 @@ method used by [James Yawn](https://www.jamesyawn.net), which gave us a
 start on both safety and procedures.
 
 The initial fuel attempts were a bit rough. We used store-bought stump
-remover of questional quality as an oxidizer.
+remover of questionable quality as an oxidizer.
 
 ![No, its not supposed to look like that]({{ site.baseurl
 }}/images/FirstFuel.jpeg)

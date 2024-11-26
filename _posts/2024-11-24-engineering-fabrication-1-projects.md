@@ -35,10 +35,10 @@ preferred CAD program. We are assigned 30 tutorials to watch and model.
 ![Phone CAD model, made with Onshape]({{ site.baseurl }}/images/phoneCad.png)
 
 I already know Fusion because of my participation in robitics, so I took
-the opporunity to learn Onshape.
+the opportunity to learn Onshape.
 
 ### WIP: Picnic Table (group project)
-This is one of the largest projcts I have worked on. My group of seven
+This is one of the largest projects I have worked on. My group of seven
 is building a picnic table out of 2x6 redwood. 
 
 

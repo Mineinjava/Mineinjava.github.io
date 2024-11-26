@@ -5,7 +5,7 @@ date:   2023-9-30 20:59:54 -0800
 categories: Robotics Engineering Math
 ---
 
-In 2021, my robotics team adopted an independant wheel steering or
+In 2021, my robotics team adopted an independent wheel steering or
 "swerve" drivetrain. That year, I was a freshman tasked with programming
 the swerve drive. Many of the available libraries and guides were either
 completely incorrect or felt too complicated (especially for a novice).
