@@ -39,7 +39,9 @@ the opportunity to learn Onshape.
 
 ### WIP: Picnic Table (group project)
 This is one of the largest projects I have worked on. My group of seven
-is building a picnic table out of 2x6 redwood. 
+built a picnic table out of 2x6 redwood. 
 
+![Picnic Table]({{ site.baseurl }}/images/Table.png)
 
-### Cutting Board (coming soon)
+### Cutting Board 
+A project in the last week of school before finals. 
