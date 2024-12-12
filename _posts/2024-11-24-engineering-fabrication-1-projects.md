@@ -34,6 +34,7 @@ This is one of the largest projects I have worked on. My group of seven
 built a picnic table out of 2x6 redwood. 
 
 ![Picnic table]({{ site.baseurl }}/images/table.png)
+
 ![Picnic table drawing]({{ site.baseurl }}/images/tabledrawing.png)
 
 ### Fusion tutorials (individual)
