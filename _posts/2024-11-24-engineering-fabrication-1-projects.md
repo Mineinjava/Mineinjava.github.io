@@ -56,5 +56,5 @@ manufactured one of my CAD models: the Christmas tree.
 
 ### Cutting Board (individual)
 Another project in the last week of school before finals. 
-
-
+![Precision board]({{ site.baseurl }}/images/preciseBoard.jpeg) 
+![Finshed board, planed to within 0.000005" :)]({{ site.baseurl }}/images/finishedBoard.jpeg) 
