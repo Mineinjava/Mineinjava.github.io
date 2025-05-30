@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Making a Twitter bot"
+title:  "Making a Twitter Bot"
 date:   2021-7-25 11:30:54 -0800
 categories: Engineering 
+seo_title: Markov Chain Twitter Bot
+excerpt: "You know what's wrong with Twitter and the rest of social media? Not
+enough real people. 
+Let's see how effective the most basic bot can be."
 ---
 
 You know what's wrong with Twitter and the rest of social media? Not

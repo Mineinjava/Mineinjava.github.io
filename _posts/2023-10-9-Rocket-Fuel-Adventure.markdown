@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "First adventures with experimental rocketry"
+title:  "First Adventures With Experimental Rocketry"
 date:   2023-10-9 20:59:54 -0800
-categories: Science Technology Engineering
+categories: Science Engineering
 tag: featured
+seo_title: "Rocket Candy Synthesis"
+excerpt: "Model rocket motors are expensive, so a friend and I decided
+to make our own fuel from potassium nitrate and sucrose (KNSU), also
+known as a sugar rocket or rocket candy. We followed the method used by
+James Yawn, which gave us a start on both safety and procedures."
 ---
 
 Model rocket motors are expensive, so a friend and I decided to make our

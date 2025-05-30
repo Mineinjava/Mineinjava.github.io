@@ -4,6 +4,14 @@ title:  "Sources of Microplastics in Local Beehives"
 date:   2023-3-11 20:59:54 -0800
 categories: Science
 tag: featured
+seo_title: "Sources of Microplastics in Local Beehives"
+excerpt: "From the day it was invented, plastic has grown more popular as a
+packaging, prototyping, and production material in every industry. As
+this plastic degrades into small particles (microplastics), it may pose
+health risks for organisms who come into contact with it. I took samples
+of honey from three hives, one without internal plastics, and tested
+them for microplastics using Nile Red staining."
+
 ---
 
 My entry into the 2023 Contra Costa County Science Fair and the 2023
@@ -36,9 +44,9 @@ plastic in their honey samples. Although I did not take enough samples
 for a definitive result, my preliminary data indicates that the majority
 of microplastics in honey comes from inside the hive.  
 
-[Full document](https://docs.google.com/document/d/1Z1v8ttM44Zk3oWJtbl_4ZfuEAWEFfV9KhFpkkDPjkfA/edit?tab=t.0)
+[Full document](https://docs.google.com/document/d/1cJodOGUwOmsOuV_ZmOZpYqQ0qWvwwLHt0tJeJKvzHFI/edit?usp=sharing)
 
-[Pictures](https://docs.google.com/presentation/d/1B4Zxc45SmFpl0lzo-W972s4NzCPZaBIE5kMkyw34tyo/edit?usp=sharing)
+[Pictures](https://docs.google.com/presentation/d/1Ca2S4yihzysqFEDgq5MrA4p19rQvXfApMp3z23Y7hro/edit?usp=sharing)
 
 My project won first place in the biology category, advancing me to the
 state competition. It also earned the Dr. David Padgett Award for

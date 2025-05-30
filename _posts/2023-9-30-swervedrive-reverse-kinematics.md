@@ -3,6 +3,8 @@ layout: post
 title:  "Swerve Drive Reverse Kinematics"
 date:   2023-9-30 20:59:54 -0800
 categories: Robotics Engineering Math
+seo_title:  "Swerve Drive Reverse Kinematics"
+excerpt: "Explanations for the math used for robotics swerve drive."
 ---
 
 In 2021, my robotics team adopted an independent wheel steering or

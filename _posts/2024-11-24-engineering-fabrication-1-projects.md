@@ -3,6 +3,10 @@ layout: post
 title:  "Engineering/Fabrication 1 Projects"
 date:   2024-11-24 12:15:54 -0800
 categories: Art Engineering
+seo_title:  "Engineering/Fabrication 1 Projects"
+excerpt: "This semester I am taking my school's Engineering/Fabrication
+(EFAB) 1 class. Next semester I will take both EFAB 2 and EFAB 3. Here
+are the projects that I have completed. "
 ---
 
 This semester I am taking my school's Engineering/Fabrication (EFAB) 1

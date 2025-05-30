@@ -3,6 +3,9 @@ layout: post
 title:  "Building a FPV Drone"
 date:   2023-7-7 20:59:54 -0800
 categories: Technology Engineering
+seo_title:  "Building a FPV Drone"
+excerpt: "After my 2.5in FPV drone crashed into a creek, I build a 5in
+drone to replace it"
 ---
 
 My 2.5" FPV drone crashed into a stream and I would like to replace it.

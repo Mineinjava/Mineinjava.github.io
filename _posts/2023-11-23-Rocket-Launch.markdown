@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Rocket Launch"
+title:  "First Rocket Launch"
 date:   2023-11-23 20:59:54 -0800
-categories: Science Technology Engineering
+categories: Science Engineering
+seo_title: "First Launch of Sugar Rocket"
+excerpt: "After three successful static fires, we loaded up a full
+rocket motor, integrated it, and launched. The nozzle blew out."
 ---
 
 My friend and I have been trying to synthesize rocket fuel. The next
