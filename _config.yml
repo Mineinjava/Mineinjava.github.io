@@ -23,7 +23,7 @@ email: marcus@kauffman.tools
 description: >- # this means to ignore newlines until "baseurl:"
   Marcus Kauffman's website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mineinjava.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kauffman.tools" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: mineinjava
 
@@ -31,7 +31,7 @@ github_username: mineinjava
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

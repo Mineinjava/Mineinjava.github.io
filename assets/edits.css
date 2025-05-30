@@ -1,5 +1,6 @@
 h5 {
     font-size: 16px;
+    text-wrap: nowrap;
 }
 
 .site-header {
