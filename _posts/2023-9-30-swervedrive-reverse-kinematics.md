@@ -81,3 +81,8 @@ SwerveDrive.calculateMoveAngles(moveVector, rotationSpeed, gyroOffset);
 I have continued to work on the code in collaboration with a friend in
 Arizona. I estimate that about two dozen teams used Quail in the 2024
 season.
+
+
+*This is part one of my swerve drive math writeup. Read part two which
+covers forwards kinematics  
+[here]({% post_url 2025-9-16-swervedrive-forwards-kinematics %})*
