@@ -63,3 +63,7 @@ figcaption {
     height: auto;
     border-radius: 8px;
   }
+
+.indent {
+    margin-left: 22pt;
+}

@@ -17,7 +17,7 @@ with Walnut Creek Community Emergency Response Team (CERT). I became
 CERT trained last February. 
 
 The purpose of my Eagle Project is to train more Scouts in Ham radio,
-especially in disaster reponse. I worked with CERT to offer a Ham class
+especially in disaster response. I worked with CERT to offer a Ham class
 and raised over $1000 to support CERT including the purchase of radios
 to be lent out to scouts. 
 

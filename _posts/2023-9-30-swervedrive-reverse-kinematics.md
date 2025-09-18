@@ -8,14 +8,14 @@ excerpt: "Explanations for the math used for robotics swerve drive."
 ---
 
 In 2021, my robotics team adopted an independent wheel steering or
-"swerve" drivetrain. That year, I was a freshman tasked with programming
-the swerve drive. Many of the available libraries and guides were either
-completely incorrect or felt too complicated (especially for a novice).
-
-Since then, I have written my own library,
+"swerve" drivetrain in which each wheel can point in any direction as
+well as spin at its own speed. That year, I was a freshman tasked with
+programming the swerve drive. Many of the available libraries and guides
+were either completely incorrect or felt too complicated (especially for
+a novice). Since then, I have written my own library,
 [Quail](https://github.com/mineinjava/quail).
 
-https://github.com/mineinjava/quail
+[https://github.com/mineinjava/quail](https://github.com/mineinjava/quail)
 
 I finally got around to writing some explanations for the math used in
 Quail. Here is the start: the basic math needed for movement.
